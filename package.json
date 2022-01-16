@@ -1,0 +1,17 @@
+{
+  "name": "amazonOrderToQuickbooksTransactions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/date-fns": "^2.6.0",
+    "csv-parser": "^2.3.2",
+    "csv-writer": "^1.6.0",
+    "date-fns": "^2.12.0",
+    "ts-node": "^8.8.2"
+  },
+  "devDependencies": {
+    "@types/node": "^13.13.0",
+    "typescript": "^3.8.3"
+  }
+}
